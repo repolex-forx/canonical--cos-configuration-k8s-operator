@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/cos-configuration-k8s-operator/commit/9364ce7e6715c918bd1d51dc4e8eeb8bd7636cb8",
       "git:hexsha": "9364ce7e6715c918bd1d51dc4e8eeb8bd7636cb8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev133"
     },
     {
