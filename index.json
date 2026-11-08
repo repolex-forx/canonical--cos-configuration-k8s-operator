@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "cos-configuration-k8s-operator",
+  "versions": [
+    {
+      "commit": "9364ce7e6715c918bd1d51dc4e8eeb8bd7636cb8",
+      "tag": "rev133",
+      "parsed_at": "2026-11-08T15:21:59.460133+00:00"
+    }
+  ]
+}
